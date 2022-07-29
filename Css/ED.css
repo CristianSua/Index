@@ -1,0 +1,64 @@
+.caja{
+    background-color: black;
+    color: white;
+    font-family: Verdana;
+}
+
+td{
+    background-color: black;
+    color: rgb(255, 255, 255);
+    font-family: Verdana;
+}
+
+.sub{
+  font-size: 20px;
+    letter-spacing:-2px;
+    color: rgb(3, 31, 49);
+    text-shadow: 0 0 5px #fff, 0 0 10px rgb(255, 255, 255), 0 0 15px rgb(255, 255, 255), 0 0 20px #ffffff, 0 0 25px #ffffff;
+    -webkit-text-fill-color: #000000;
+    -webkit-text-stroke-color:#000000;
+    -webkit-text-stroke-width:0.2px; 
+    text-align: center;
+    font-family: Verdana;
+}
+.fondo{
+  background-color: rgb(72, 173, 123);
+}
+.TI{
+  border: 6px solid rgb(72, 173, 123);
+    background-color: rgba(26, 12, 1, 0.938);
+    color:white;
+    text-align: center;
+    font-family: Verdana;
+    text-align: justifys;
+}
+.TIT{
+  border: 6px solid rgb(72, 173, 123);
+    background-color: rgba(255, 120, 9, 0.938);
+    color:white;
+    text-align: center;
+    font-family: Verdana;
+    text-align: justifys;
+}
+body{
+  background-color: rgb(72, 173, 123);
+}
+.texto {
+color: #fff;
+text-align: center;
+font-family: Verdana;
+text-align: justifys;
+}
+
+
+.opcion{
+  text-decoration: none; 
+  background-color: rgb(0, 0, 0);
+  color: rgb(253, 253, 253); 
+  text-align: center;
+  font-family: Verdana;
+}
+.po{
+  background-color: rgb(0, 0, 0);
+  color: rgb(253, 253, 253);
+}
